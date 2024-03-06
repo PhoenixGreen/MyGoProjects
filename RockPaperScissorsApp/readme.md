@@ -1,8 +1,6 @@
-___Copy and Use this link in the .markdown file___  
-
 ![image](https://github.com/PhoenixGreen/MyGoProjects/blob/main/RockPaperScissorsApp/Rock%20paper%20scissors%20app.jpg)
 
-## Rock Paper Scissors
+# Rock Paper Scissors
 This was the first time I've tried to connect all the dots between the basics of Golang and building a functional web app with visual elements. 
 
 The game logic is housed in the rps/rps.go file. This includes the modulus logic for choosing who wins and returning the three main messages:
