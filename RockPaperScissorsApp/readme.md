@@ -4,7 +4,7 @@
 This was the first time I've tried to connect all the dots between the basics of Golang and building a functional web app with visual elements. 
 
 The game logic is housed in the rps/rps.go file. This includes the modulus logic for choosing who wins and returning the three main messages:
-* Play chose
+* Player chose
 * Computer chose
 * Who won 
 
