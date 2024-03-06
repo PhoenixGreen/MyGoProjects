@@ -1,6 +1,6 @@
 ___Copy and Use this link in the .markdown file___  
 
-![image text]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/PhoenixGreen/MyGoProjects/blob/main/RockPaperScissorsApp/Rock%20paper%20scissors%20app.jpg?raw=true))
+![image]([https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png](https://github.com/PhoenixGreen/MyGoProjects/blob/main/RockPaperScissorsApp/Rock%20paper%20scissors%20app.jpg?raw=true))
 
 ## Rock Paper Scissors
 This was the first time I've tried to connect all the dots between the basics of Golang and building a functional web app with visual elements. 
